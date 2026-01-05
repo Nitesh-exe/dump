@@ -1,0 +1,7 @@
+Name,Age,City,ID,sales 1,sales 2,sales 3
+Alice,28,New York,1001,450,520
+Mark,,Chicago,1002,,280,310
+Elena,25,Miami,1003,,,790
+Samir,41,Seattle,,500
+Chloe,29,San Francisco,1005,900,950,920
+David,38,Austin,1006,210,240,230
